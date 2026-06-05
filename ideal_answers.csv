@@ -1,0 +1,5 @@
+question,ideal_answer
+Explain SQL JOINs,"SQL JOINs combine data from multiple tables. INNER JOIN returns matching records. LEFT JOIN returns all rows from left table and matching rows from right table."
+What is SQL?,"SQL stands for Structured Query Language. It is used to manage and query relational databases."
+What is Machine Learning?,"Machine Learning is a subset of AI that enables systems to learn patterns from data and make predictions without explicit programming."
+What are LLMs?,"Large Language Models are deep learning models trained on massive text datasets capable of understanding and generating human language."

@@ -1,0 +1,37 @@
+Skill,Category
+Python,Programming
+SQL,Database
+Power BI,Visualization
+Excel,Analytics
+Tableau,Visualization
+Pandas,Python
+NumPy,Python
+Matplotlib,Visualization
+Seaborn,Visualization
+Scikit-learn,Machine Learning
+TensorFlow,Deep Learning
+PyTorch,Deep Learning
+Machine Learning,Machine Learning
+Deep Learning,Deep Learning
+Statistics,Mathematics
+Probability,Mathematics
+Data Analysis,Analytics
+Data Visualization,Analytics
+ETL,Data Engineering
+Apache Spark,Big Data
+Hadoop,Big Data
+AWS,Cloud
+Azure,Cloud
+GCP,Cloud
+Docker,DevOps
+Kubernetes,DevOps
+Git,Version Control
+GitHub,Version Control
+Streamlit,Web App
+Flask,Web App
+FastAPI,Web App
+NLP,Artificial Intelligence
+Computer Vision,Artificial Intelligence
+Generative AI,Artificial Intelligence
+LLMs,Artificial Intelligence
+Prompt Engineering,Artificial Intelligence

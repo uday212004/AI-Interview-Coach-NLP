@@ -1,0 +1,44 @@
+Role,Required_Skill
+Data Analyst,Python
+Data Analyst,SQL
+Data Analyst,Excel
+Data Analyst,Power BI
+Data Analyst,Statistics
+Data Analyst,Data Visualization
+
+Business Analyst,Excel
+Business Analyst,SQL
+Business Analyst,Power BI
+Business Analyst,Tableau
+Business Analyst,Statistics
+
+Data Scientist,Python
+Data Scientist,SQL
+Data Scientist,Machine Learning
+Data Scientist,Statistics
+Data Scientist,Pandas
+Data Scientist,NumPy
+Data Scientist,Scikit-learn
+
+ML Engineer,Python
+ML Engineer,Machine Learning
+ML Engineer,Deep Learning
+ML Engineer,TensorFlow
+ML Engineer,PyTorch
+ML Engineer,Docker
+ML Engineer,AWS
+
+Data Engineer,Python
+Data Engineer,SQL
+Data Engineer,ETL
+Data Engineer,Apache Spark
+Data Engineer,Hadoop
+Data Engineer,AWS
+
+AI Engineer,Python
+AI Engineer,NLP
+AI Engineer,Generative AI
+AI Engineer,LLMs
+AI Engineer,Prompt Engineering
+AI Engineer,Docker
+AI Engineer,AWS

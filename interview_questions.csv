@@ -1,0 +1,26 @@
+role,difficulty,category,question
+Data Analyst,Easy,Technical,What is SQL?
+Data Analyst,Easy,Technical,What is a primary key?
+Data Analyst,Medium,Technical,Explain SQL JOINs.
+Data Analyst,Medium,Technical,How do you handle missing values?
+Data Analyst,Hard,Technical,Explain normalization and denormalization.
+
+Data Analyst,Easy,Behavioral,Tell me about yourself.
+Data Analyst,Medium,Behavioral,Describe a challenging project.
+Data Analyst,Hard,Behavioral,Describe a time you handled stakeholder conflict.
+
+Data Analyst,Easy,Scenario-Based,A dataset has duplicate rows. What would you do?
+Data Analyst,Medium,Scenario-Based,Sales suddenly dropped. How would you investigate?
+Data Analyst,Hard,Scenario-Based,Design a KPI dashboard for executives.
+
+Data Scientist,Easy,Technical,What is Machine Learning?
+Data Scientist,Medium,Technical,Explain overfitting and underfitting.
+Data Scientist,Hard,Technical,Explain bias-variance tradeoff.
+
+ML Engineer,Easy,Technical,What is Deep Learning?
+ML Engineer,Medium,Technical,Explain CNN architecture.
+ML Engineer,Hard,Technical,How would you deploy an ML model?
+
+AI Engineer,Easy,Technical,What are LLMs?
+AI Engineer,Medium,Technical,Explain Prompt Engineering.
+AI Engineer,Hard,Technical,How would you fine-tune a language model?
